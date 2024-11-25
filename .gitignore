@@ -1,0 +1,7 @@
+# Assets
+/PCD/[Aa]ssets/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.idea
