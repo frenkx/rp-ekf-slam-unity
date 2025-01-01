@@ -403,7 +403,7 @@ static int[] Cluster( List<Vector3> data, float epsilon, int minPoints )
 
 ## 6. Demo
 
-The project is not uploaded, and access to its contents is provided upon request. However, builds are available for Linux (x86_64) and Windows (x86), which can be downloaded [here](https://drive.google.com/drive/folders/1oFx_F5WAaQxsaC6HdMGzzOeTlxDHSbmA?usp=sharing).
+The project is not uploaded. However, builds are available for Linux (x86_64) and Windows (x86), which can be downloaded [here](https://drive.google.com/drive/folders/1oFx_F5WAaQxsaC6HdMGzzOeTlxDHSbmA?usp=sharing).
 
 ## 7. Bibliography
 
